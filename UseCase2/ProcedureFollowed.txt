@@ -1,0 +1,4 @@
+-> MySQL and Wordpress Images have been Downloaded
+-> Containers for MySQL and WordPress were Created along with environment Configuration(Ports Included)
+-> Linking of Two Container was Done using --link flag
+-> Wordpress HomePage Showed Error name "Error establishing database connection"
